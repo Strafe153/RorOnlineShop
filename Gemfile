@@ -44,6 +44,10 @@ gem "bootsnap", require: false
 
 gem 'bootstrap', '~> 5.0.2'
 
+gem 'webpacker', '~> 3.0'
+
+gem 'psych', '< 4'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
