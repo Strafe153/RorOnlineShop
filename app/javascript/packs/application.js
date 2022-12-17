@@ -8,3 +8,6 @@
 // layout file, like app/views/layouts/application.html.erb
 
 console.log('Hello World from Webpacker')
+
+window.I18n = require("../../../public/javascripts/i18n")
+require("../../../public/javascripts/translations")
